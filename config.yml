@@ -1,0 +1,28 @@
+prefix: "&6&lUltra&rLinks &r>"
+
+
+# For the /teamspeak command
+teamspeak:
+  enable: true
+  message: "&bThe server's teamspeak is : ts.server.exemple"
+  permission: "teamspeak.use"
+  
+# For the /youtube command
+youtube:
+  enable: true
+  message: "&cThe server's Youtube is : youtube.com/@exemple"
+  permission: "null" # Set permission "null" for desactivate permission system
+
+
+# For the /discord command
+discord:
+  enable: true
+  message: "&9The server's discord is : discord.gg/exemple"
+  permission: "discord.use"
+
+# For the /website command
+website:
+  enable: true
+  message: "&bThe server's website is : https://website.cool"
+  permission: "website.use"
+  

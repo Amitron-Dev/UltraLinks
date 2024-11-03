@@ -1,0 +1,15 @@
+name: UltraLinks
+version: "1.0" 
+api: Spigot
+api-version: "1.8"
+main: net.amitron.ultralinks.GMain
+commands:
+  discord:
+    description: Give the server's Discord
+  teamspeak:
+    description: Give the server's TeamSpeak
+  youtube:
+    description: Give the server's youtube channel
+  website:
+    description: Give the officiel server's website
+    
