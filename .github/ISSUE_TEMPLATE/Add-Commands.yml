@@ -1,0 +1,23 @@
+name: Add Commands
+description: Add a command on the plugin
+title: '[Add][Commands]: '
+assignees:
+  - amitron-dev
+labels:
+  - add
+  - commands
+  - ' triage'
+body:
+  - type: input
+    id: commands
+    attributes:
+      label: Without "/"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What will she give
+      description: What will happen when we place the command?
+    validations:
+      required: true
