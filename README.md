@@ -16,3 +16,9 @@ You can define a permission per command in the config
 
 For add commands, please ask in "issues" categories
 
+## Screenshot
+_/youtube_
+![2024-11-03_16 10 01](https://github.com/user-attachments/assets/a25e4fe3-6209-4f6f-9732-c658c08e8641)
+
+_/discord_
+![Uploading 2024-11-03_16.12.31.png…]()
